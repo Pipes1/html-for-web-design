@@ -1,0 +1,17 @@
+li{
+  font-family: Arial; 
+  font-size: 30px;
+}
+h2{
+  font-family: Arial;
+  text-align:center;
+}
+body{
+  background-color: green;
+
+  }
+hr{
+  width: 50%;
+  height: 10px;
+  background-color: white;
+}
